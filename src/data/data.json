@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "delivery_date": {"delivery_date": "05-10-2019"},
+      "discount": {"discount_current": 51, "discount_avg": 51, "sales_discount_avg": 51},
+      "gender": {"gender": "Ж"},
+      "link": {"link": "https://www.wildberries.ru/catalog/3670030/detail.aspx"},
+      "main": {"main_pic": "https://img2.wbstatic.net/big/new/3670000/3670030-1.jpg"},
+      "other": {"status": "", "code": "3670030", "producing_country": {"country_name": "Китай", "country_code": "CN"}},
+      "price": {"first_price": 1364, "last_price": 1619}
+    },
+    {
+      "delivery_date": {"delivery_date": "05-10-2019"},
+      "discount": {"discount_current": 52, "discount_avg": 52, "sales_discount_avg": 52},
+      "gender": {"gender": "Ж"},
+      "link": {"link": "https://www.wildberries.ru/catalog/3670030/detail.aspx"},
+      "main": {"main_pic": "https://img2.wbstatic.net/big/new/3670000/3670030-1.jpg"},
+      "other": {"status": "", "code": "3670030", "producing_country": {"country_name": "Китай", "country_code": "CN"}},
+      "price": {"first_price": 1364, "last_price": 1219}
+    },
+    {
+      "delivery_date": {"delivery_date": "05-10-2019"},
+      "discount": {"discount_current": 51, "discount_avg": 60, "sales_discount_avg": 70},
+      "gender": {"gender": "Ж"},
+      "link": {"link": "https://www.wildberries.ru/catalog/3670030/detail.aspx"},
+      "main": {"main_pic": "https://img2.wbstatic.net/big/new/3670000/3670030-1.jpg"},
+      "other": {"status": "", "code": "3670030", "producing_country": {"country_name": "Китай", "country_code": "CN"}},
+      "price": {"first_price": 1264, "last_price": 619}
+    }
+  ]
+}
