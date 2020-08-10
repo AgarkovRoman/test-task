@@ -7,7 +7,7 @@ import classes from './MainTable.module.css'
 
 const renderTable = ({ main, gender, price, discount, delivery_date, link, ...props }) => {
     return (
-        <tr>
+        <tr key={price.last_price + price.first_price}>
             <td><img className={classes.img} src={main.main_pic} alt={'img'} /></td>
             <td>{gender.gender}</td>
             <td>{price.last_price} руб.</td>
